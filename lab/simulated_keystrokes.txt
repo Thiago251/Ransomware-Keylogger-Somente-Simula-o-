@@ -1,0 +1,13 @@
+# Formato: TIMESTAMP|KEY
+# Este arquivo simula eventos de tecla usados apenas para análise.
+1696065600|h
+1696065601|e
+1696065602|l
+1696065603|l
+1696065604|o
+1696065606|SPACE
+1696065607|w
+1696065608|o
+1696065609|r
+1696065610|l
+1696065611|d
